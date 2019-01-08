@@ -1,7 +1,7 @@
 {
   "name": "yl-lock",
-  "version": "1.2.0",
-  "description": "The description of your package.",
+  "version": "1.2.1",
+  "description": "A simple thread lock for js.",
   "main": "./lib/index.js",
   "scripts": {
     "build": "babel src -d lib"

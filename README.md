@@ -1,6 +1,6 @@
 # yl-lock
 
-A simple lock for js.
+A simple thread lock for js.
 
 # How to Use
 
